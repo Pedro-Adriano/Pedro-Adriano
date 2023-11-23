@@ -1,7 +1,7 @@
 <p>Muito prazer, sou o Pedro. &#128512;</p>
 
 <a href="https://github.com/Pedro-Adriano">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedro-Adriano&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedro-Adriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 ##### Technologies:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
